@@ -49,3 +49,9 @@ The model achieved strong performance metrics on unseen test data:
 
 ---
 *Developed by [Haya Almutlaq]*
+
+### Model Performance (Confusion Matrix)
+![Results](image.png)
+
+### 🏆 Certificate
+[📄 Click here to view my Certificate](Haya%20Abdullah%20Almutlaq%20شقرا.pdf)
